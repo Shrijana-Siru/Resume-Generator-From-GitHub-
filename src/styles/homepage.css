@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.butn{
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+
+.backArrow{
+    cursor: pointer;
+}
+
